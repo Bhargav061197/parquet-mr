@@ -24,6 +24,7 @@ import org.junit.Rule;
 import org.junit.rules.TemporaryFolder;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
+import org.apache.commons.logging.impl.Log4JLogger;
 
 import java.io.File;
 
